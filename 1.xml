@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a>
+
+<b>
+<nom>nombre1</nom>
+<ap>Ap1</ap>
+<cod>01</cod>
+</b>
+<b>
+<nom>nombre2</nom>
+<ap>Ap2</ap>
+<cod>02</cod>
+</b>
+
+<b>
+<nom>nombre3</nom>
+<ap>Ap3</ap>
+<cod>03</cod>
+</b>
+</a>
