@@ -1,17 +1,17 @@
 [
   {
-    "nom": "nombre1",
-    "ap": "Ap1",
-    "cod": "01"
+    "autor": "ach74",
+    "app": "Daredevil",
+    "app": "001"
   },
   {
-    "nom": "nombre2",
-    "ap": "Ap2",
-    "cod": "02"
+    "autor": "Cristina Vega",
+    "app": "Agents",
+    "cod": "002",
   },
   {
-    "nom": "nombre3",
-    "ap": "Ap3",
-    "cod": "03"
+    "autor": "Vega",
+    "app": "Deadly Class",
+    "app": "003",
   }
 ]
