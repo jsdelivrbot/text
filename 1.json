@@ -1,21 +1,17 @@
-{
-  "a": {
-    "b": [
-      {
-        "nom": "nombre1",
-        "ap": "Ap1",
-        "cod": "01"
-      },
-      {
-        "nom": "nombre2",
-        "ap": "Ap2",
-        "cod": "02"
-      },
-      {
-        "nom": "nombre3",
-        "ap": "Ap3",
-        "cod": "03"
-      }
-    ]
+[
+  {
+    "nom": "nombre1",
+    "ap": "Ap1",
+    "cod": "01"
+  },
+  {
+    "nom": "nombre2",
+    "ap": "Ap2",
+    "cod": "02"
+  },
+  {
+    "nom": "nombre3",
+    "ap": "Ap3",
+    "cod": "03"
   }
-}
+]
